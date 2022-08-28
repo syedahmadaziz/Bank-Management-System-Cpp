@@ -47,7 +47,7 @@ void bank::display_account()
 }
 void bank::withdraw_money()
 {
-    cout<<"withdeaw ::";
+    cout<<"withdraw ::";
     cout<<"Enter your amount for withdrawing ";
     cin>>amount;
     balance=balance-amount;
